@@ -1,3 +1,4 @@
+// Source: https://github.com/rhaiscript/rhai/blob/main/scripts/fibonacci.rhai
 // This Rhai script calculates the n-th Fibonacci number using a
 // really dumb algorithm to test the speed of the scripting engine.
 
